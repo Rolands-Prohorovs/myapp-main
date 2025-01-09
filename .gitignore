@@ -1,0 +1,5 @@
+.idea
+.idea/gym_app.iml
+public/training_history.txt
+/vendor/
+composer.lock
